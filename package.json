@@ -1,0 +1,30 @@
+{
+  "name": "bitchateroo",
+  "version": "1.0.0",
+  "description": "Node App for BIT students",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-es6-template-engine": "^2.2.2",
+    "socket.io": "^2.3.0",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synseusz/Bitchateroo.git"
+  },
+  "keywords": [
+    "bitchateroo"
+  ],
+  "author": "synseusz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/synseusz/Bitchateroo/issues"
+  },
+  "homepage": "https://github.com/synseusz/Bitchateroo#readme"
+}
